@@ -6,13 +6,20 @@ header {
   padding: 20px 0; /* Adiciona preenchimento acima e abaixo */
 }
 
-header h1 {
-  color: #fff; /* Cor do texto do nome para branco */
-}
-
 header img {
   border-radius: 50%; /* Arredondar bordas da imagem */
   width: 150px; /* Ajusta largura da imagem */
   height: 150px; /* Ajusta altura da imagem */
   margin-bottom: 10px; /* Margem inferior */
+}
+
+header h1 {
+  color: #fff; /* Cor do texto do nome para branco */
+}
+
+.container {
+  max-width: 800px; /* Define a largura máxima do container */
+  margin: 20px auto; /* Centraliza o container na página */
+  padding: 20px; /* Adiciona espaço interno ao container */
+  border: 1px solid #333; /* Adiciona uma borda ao redor do container */
 }
