@@ -20,6 +20,6 @@ header h1 {
 .container {
   max-width: 800px; /* Define a largura máxima do container */
   margin: 20px auto; /* Centraliza o container na página */
-  padding: 20px; /* Adiciona espaço interno ao container */
-  border: 1px solid #333; /* Adiciona uma borda ao redor do container */
+  padding: 20px; /* Adiciona espaço interno */
+  border: 1px solid #333; /* Adiciona uma borda */
 }
