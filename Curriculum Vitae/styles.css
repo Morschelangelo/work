@@ -1,18 +1,18 @@
 /* Estiliza o cabeçalho */
 header {
-  background-color: #333; /* Define a cor de fundo do cabeçalho */
-  color: #fff; /* Define a cor do texto do cabeçalho como branco */
-  text-align: center; /* Alinha o texto ao centro */
+  background-color: #333; /* Cor de fundo do cabeçalho */
+  color: #fff; /* Cor do texto do cabeçalho como branco */
+  text-align: center; /* Alinhar texto ao centro */
   padding: 20px 0; /* Adiciona preenchimento acima e abaixo */
 }
 
 header h1 {
-  color: #fff; /* Altera a cor do texto do nome para branco */
+  color: #fff; /* Cor do texto do nome para branco */
 }
 
 header img {
-  border-radius: 50%; /* Arredonda as bordas da imagem */
-  width: 150px; /* Define a largura da imagem */
-  height: 150px; /* Define a altura da imagem */
-  margin-bottom: 10px; /* Adiciona margem inferior */
+  border-radius: 50%; /* Arredondar bordas da imagem */
+  width: 150px; /* Ajusta largura da imagem */
+  height: 150px; /* Ajusta altura da imagem */
+  margin-bottom: 10px; /* Margem inferior */
 }
